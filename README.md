@@ -17,7 +17,7 @@ To be able to run this you need to have installed
 # Key Files
 * [horse-or-human.ipynb](https://github.com/Moddy2024/Horse-or-Human-Image-Classification/blob/main/horse-or-human%20.ipynb) - In this file it shows how I have moved some of the data from the validation set to the training set, I have also shown how the CGI data looks like. The training of the model is also done in this notebook, you can see the visualization of the CNN that has been used, I have created that using visual keras. In the last cell you can see how the data looks like after passing through the different layers of the Convolutional layers.
 * [trained models](https://github.com/Moddy2024/Horse-or-Human-Image-Classification/tree/main/trained%20models) - Out of all the 10 models saved. I kept the best two models in this folder they are available in h5 and pth format.
-* [prediction.ipynb](https://github.com/Moddy2024/Horse-or-Human-Image-Classification/blob/main/prediction.ipynb) -  Using any one of the trained model files from the above folder and images from the below folder, this predicts if it's a picture of a horse or a human.
+* [prediction.ipynb](https://github.com/Moddy2024/Horse-or-Human-Image-Classification/blob/main/prediction.ipynb) -  Using any one of the trained model files from the above folder and images, this predicts if it's a picture of a horse or a human.
 * [test data](https://github.com/Moddy2024/Horse-or-Human-Image-Classification/tree/main/test%20data) - Here I have added some of the images that I have randomly saved from the internet which I have used for testing the models.
 
 # Training and Validation Image Statistics
